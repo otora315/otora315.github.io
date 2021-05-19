@@ -1,2 +1,61 @@
 @charset "UTF-8";
 
+/* 共通フォーム */
+html{
+  font-size: 100%;
+}
+
+body{
+  line-height: 1.7;
+  padding:0px;
+  width: 1000px;
+  margin: 0 auto;
+}
+
+img{
+  max-width: 100%;
+}
+
+ul{
+  list-style-type: none;
+}
+
+a{
+  text-decoration:none ;
+}
+
+a:hover{
+  color: peru;
+}
+
+/* .img-logo */
+.img-logo{
+  margin: auto;
+}
+
+/*logo*/
+.img-logo{
+  width: 300px;
+}
+
+/* header-logo */
+.header-logo{
+  display: flex ;
+}
+
+/* .main-nav-v */
+.main-nav-h{
+  margin: 0 auto;
+}
+/* mein-nav */
+.main-nav{
+display: flex;
+align-items: center;
+
+}
+/* item */
+.item{
+  margin-right: 20px;
+  margin-left: 20px;
+}
+/*  */
